@@ -1,8 +1,22 @@
 # MPDM - Monitoramento Preditivo de Motores Elétricos
 
+![Status](https://img.shields.io/badge/Status-Concluído-success)
+![Platform](https://img.shields.io/badge/Plataforma-ESP32-blue)
+![Language](https://img.shields.io/badge/Linguagem-C%2B%2B%2FArduino-orange)
+
 Este repositório contém o firmware e documentação do **MPDM**, um sistema IOT desenvolvido como Trabalho de Conclusão de Curso (TCC) focado na Indústria 4.0 e Manutenção Preditiva.
 
 O sistema realiza a leitura de grandezas físicas críticas de motores elétricos, transmite via LoRa (Long Range) e apresenta os dados em uma Interface Homem-Máquina (IHM) portátil com capacidade de armazenamento histórico.
+
+## 👨‍💻 Equipe de Desenvolvimento
+
+Este projeto foi desenvolvido por:
+* **Gustavo Santana Nascimento**
+* **Lucas Santos Gama**
+* **Nicole da Silva Nunes Pitombeira**
+* **Polyanna Silva Borges**
+
+---
 
 ## 📐 Arquitetura do Sistema
 
@@ -74,4 +88,15 @@ Responsável pelo recebimento, processamento, exibição e armazenamento.
 5.  Carregue o código da pasta `/Receptor` no módulo IHM.
 
 ---
-*Projeto desenvolvido para fins acadêmicos - Curso Técnico em Eletrotécnica.*
+
+## 🎓 Agradecimentos Especiais
+
+Gostaríamos de agradecer a todos que tornaram este projeto possível:
+
+* **Orientador:** Prof. Eduardo Félix Pereira, pela orientação técnica.
+* **Professores:** Jurandir Sá dos Santos, Ronaldo Oliveira, Juliana da Silva e Sérgio Caldeira, pelo auxílio na elaboração técnica.
+* **Escola SENAI “Mariano Ferraz”:** Pela infraestrutura e formação técnica.
+* **Banca Examinadora:** Pela presença e pelas valiosas considerações.
+
+---
+*Projeto desenvolvido para fins acadêmicos - Curso Técnico em Eletrotécnica - 2025.*
