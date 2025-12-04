@@ -99,4 +99,4 @@ Gostaríamos de agradecer a todos que tornaram este projeto possível:
 * **Banca Examinadora:** Pela presença e pelas valiosas considerações.
 
 ---
-*Projeto desenvolvido para fins acadêmicos - Curso Técnico em Eletrotécnica - 2025.*
+*Projeto desenvolvido para fins acadêmicos - Curso Técnico em Eletroeletrônica - 2025.*
